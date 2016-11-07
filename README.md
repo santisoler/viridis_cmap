@@ -1,4 +1,4 @@
-# viridis
+# viridis_cmap
 Simple PIP package to use viridis colormap in matplotlib 1.4
 
 # How to install
